@@ -1,0 +1,21 @@
+name: dio_single_flight
+description: "Automatic token refresh for Dio: one refresh for concurrent 401s, automatic replay of failed requests, and clean failure with no hangs."
+version: 0.1.0
+repository: https://github.com/satr-zero/dio_single_flight
+issue_tracker: https://github.com/satr-zero/dio_single_flight/issues
+topics:
+  - dio
+  - http
+  - interceptor
+  - authentication
+  - token
+
+environment:
+  sdk: ^3.3.0
+
+dependencies:
+  dio: ^5.5.0
+
+dev_dependencies:
+  lints: ^6.1.0
+  test: ^1.32.0
