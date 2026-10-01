@@ -1,3 +1,5 @@
-# Internal planning files — not part of the published package.
 NOTES.md
 PLAN.md
+*.iml
+.idea/
+coverage/
