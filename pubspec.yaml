@@ -1,6 +1,6 @@
 name: dio_single_flight
 description: "Automatic token refresh for Dio: one refresh for concurrent 401s, automatic replay of failed requests, and clean failure with no hangs."
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/satr-zero/dio_single_flight
 issue_tracker: https://github.com/satr-zero/dio_single_flight/issues
 topics:
